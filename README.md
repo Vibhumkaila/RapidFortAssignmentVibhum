@@ -1,10 +1,13 @@
 front page
+
 ![WhatsApp Image 2024-11-23 at 17 17 13](https://github.com/user-attachments/assets/d6e14a2d-7b33-4954-8af4-0de463ec5e13)
 
 We can see metadata after uplaoding the docx file
+
 <img width="597" alt="Screenshot 2024-11-23 at 5 21 40 PM" src="https://github.com/user-attachments/assets/1ae4eef9-60db-4c48-8558-ae1eb263d6dd">
 
 We get the options to convert into pdf with and without password
+
 ![WhatsApp Image 2024-11-23 at 17 14 52](https://github.com/user-attachments/assets/9cb3beac-d72c-49cc-9b45-f3df5443a521)
 
 first we will se without password
@@ -26,6 +29,7 @@ now we will see some edge cases:
 ![WhatsApp Image 2024-11-23 at 17 27 52](https://github.com/user-attachments/assets/a195c7b3-e8d8-41fd-9fa8-2d8535ad8dd0)
 
 2) if we try to upload any other format except docx
+   
    ![WhatsApp Image 2024-11-23 at 17 28 49](https://github.com/user-attachments/assets/74c12b3f-c245-436d-9a6a-b35df0f52da6)
 
    
